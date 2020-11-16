@@ -1,0 +1,1 @@
+Este proyecto trata de una base de datos de un concesionario de coches en el que hay 12 coches distintos todos con sus datos detallados.
